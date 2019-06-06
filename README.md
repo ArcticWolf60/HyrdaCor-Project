@@ -1,4 +1,4 @@
-# HyrdoCor-Project
+# HyrdaCor-Project
 This is my text based adventure game that I was assigned to create.
 I chose to make this game using batch. The game doesn't go too in depth, but I've gotten most of the basic game features down.
 
